@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UbaidGondal
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Fluter App Development
+- 💞️ I’m looking to collaborate on Flutter App Development
 - 📫 How to reach me ubaidgondal20@gmail.com
 
 <!---
